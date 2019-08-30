@@ -1,2 +1,3 @@
 # busara
-Busara Core Solutions 
+# Busara Core Solutions 
+# by Benson Mugambi
